@@ -1,0 +1,18 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    background-color: #000000;
+    font-family: "Papyrus";
+    color: #FFFFFF;
+    display: flex;
+    margin-top: 6rem;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10rem;
+}
+
+section {
+    margin: 2rem;
+}
