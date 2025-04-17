@@ -23,3 +23,11 @@ section {
     margin: 2rem;
     text-align: center;
 }
+
+a {
+    color: #fdad35;
+}
+
+a:hover {
+    color: #dc41cd;
+}
