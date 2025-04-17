@@ -1,10 +1,16 @@
+@font-face {
+    font-family: altehaasgroteskregular;
+    src: url(AlteHaasGroteskRegular.ttf);
+  }
+
 html {
     font-size: 20px;
+    font-family: altehaasgroteskregular;
 }
 
 body {
     background-color: #000000;
-    font-family: "Papyrus";
+    /*font-family: "Papyrus";*/
     color: #FFFFFF;
     display: flex;
     margin-top: 6rem;
@@ -15,4 +21,5 @@ body {
 
 section {
     margin: 2rem;
+    text-align: center;
 }
