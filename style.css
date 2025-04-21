@@ -31,3 +31,9 @@ a {
 a:hover {
     color: #F5D118;
 }
+
+img {
+    max-width: 15rem;
+    height: auto;
+    border-radius: 0.5rem;
+}
