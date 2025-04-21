@@ -9,9 +9,9 @@ html {
 }
 
 body {
-    background-color: #000000;
+    background-color: #294487;
     /*font-family: "Papyrus";*/
-    color: #fdad35;
+    color: #ffffff;
     display: flex;
     margin-top: 6rem;
     align-items: center;
@@ -25,9 +25,9 @@ section {
 }
 
 a {
-    color: #fdad35;
+    color: #ffffff;
 }
 
 a:hover {
-    color: #dc41cd;
+    color: #F5D118;
 }
